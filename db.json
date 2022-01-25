@@ -1,14 +1,8 @@
-[
+
   {
     "deviceId": "5g0sql4ffe",
     "lon": 22.71963,
     "lat": 75.8577,
     "timeStamp": "2022-01-20T05:45:22.654Z"
-  },
-  {
-    "deviceId": "5g0sqssl4ffe",
-    "lon": 22.7196443,
-    "lat": 75.82577,
-    "timeStamp": "2022-01-20T05:45:22.654Z"
   }
-]
+
