@@ -1,6 +1,14 @@
-{
-  "device":"12dkcsdfsdkjnsdk12222"
-  "latitude":"23.44332"
-  "longitude":"55.22334"
-  "timestamp:"22/12/2222 23:44"
-}
+[
+  {
+    "deviceId": "5g0sql4ffe",
+    "lon": 22.71963,
+    "lat": 75.8577,
+    "timeStamp": "2022-01-20T05:45:22.654Z"
+  },
+  {
+    "deviceId": "5g0sqssl4ffe",
+    "lon": 22.7196443,
+    "lat": 75.82577,
+    "timeStamp": "2022-01-20T05:45:22.654Z"
+  }
+]
