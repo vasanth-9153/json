@@ -1,13 +1,6 @@
 {
-"device": {
-  "deviceId": "5g0sql4ffe"
-},
-"measurements": {
-    "Location": {
-        "lon": 22.71963,
-        "lat": 75.8577,
-        "alt": 0
-    },
-    "timeStamp": "2022-01-20T05:45:22.654Z"
-}
+  "device":"12dkcsdfsdkjnsdk12222"
+  "latitude":"23.44332"
+  "longitude":"55.22334"
+  "timestamp:"22/12/2222 23:44"
 }
