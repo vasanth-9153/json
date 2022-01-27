@@ -1,8 +1,12 @@
-{"device":
-  {
-    "deviceId": "5g0sql4ffe",
-    "lon": 22.71963,
-    "lat": 75.8577,
+{
+"device": {
+  "deviceId": "5g0sql4ffe"
+},
+"measurements": {
+    "Location": {
+        "lon": 22.71963,
+        "lat": 75.8577
+    },
     "timeStamp": "2022-01-20T05:45:22.654Z"
-  }
+}
 }
